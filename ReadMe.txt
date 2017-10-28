@@ -1,4 +1,4 @@
-Responsive HTML5 website template for developers
+Coding Girls Days
 
 Theme name:
 =======================================================================
